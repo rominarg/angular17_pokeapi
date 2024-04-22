@@ -3,7 +3,7 @@ import { PokemonService } from '../../services/pokemon.service';
 import { Pokemon } from '../../interfaces/pokemon';
 
 @Component({
-  selector: 'app-search-pokemon',
+  selector: 'search-pokemon',
   standalone: true,
   imports: [],
   templateUrl: './search-pokemon.component.html',
